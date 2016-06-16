@@ -13,5 +13,10 @@ namespace COMP2007_S2016_Lesson6B
         {
 
         }
+
+        protected void LoginButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
